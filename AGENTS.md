@@ -11,6 +11,10 @@
 
 # Repository Guidelines
 
+
+### Beads upgrades
+- After upgrading `bd`, run: `bd info --whats-new`
+- If `bd info` warns about hooks, run: `bd hooks install`
 ## Project Structure & Module Organization
 - `app/jvp_agent/` houses the production agent: `agent.py` wires the ADK agent, `a2a.py` exposes the `CommandAgentExecutor` and AgentCard, `agent.yaml` sets runtime defaults, `prompts/` carries instruction templates, and `tools/` implements the echo and Vertex AI Search integrations.
 - `app/jvp_agent/tools/strategic_orchestrator.py` adds a local risk/opportunity synthesiser using lightweight heuristics—extend it before reaching for remote services.
