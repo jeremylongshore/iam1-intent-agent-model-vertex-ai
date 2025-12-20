@@ -4,7 +4,7 @@
 
 **Last Updated:** 2025-11-17
 **Project:** intent-agent-model-jvp-base
-**Total Documents:** 8
+**Total Documents:** 9
 
 ---
 
@@ -20,13 +20,14 @@
 | 006 | OD | DEPL | 006-OD-DEPL-template-deployment.md | Template repository deployment |
 | 007 | RA | REPT | 007-RA-REPT-industry-examples.md | Industry examples added to GitHub Pages |
 | 008 | AT | RELE | 008-AT-RELE-iamjvp-launch.md | Launch notes for IAMJVP commander scaffold |
+| 009 | AT | ARCH | 009-AT-ARCH-shared-toolbox.md | Shared toolbox architecture notes (Firebase + Cloud Run MCP) |
 
 ---
 
 ## Category Summary
 
 - **OD** (Operations & Deployment): 3 documents
-- **AT** (Architecture & Technical): 2 documents
+- **AT** (Architecture & Technical): 3 documents
 - **RA** (Reports & Analysis): 2 documents
 - **PP** (Product & Planning): 1 document
 
@@ -41,6 +42,7 @@
 - **DEPL** (Deployment Guide/Log): 2 documents
 - **REPT** (General Report): 1 document
 - **RELE** (Release Notes): 1 document
+- **ARCH** (Architecture Notes): 1 document
 
 ---
 
